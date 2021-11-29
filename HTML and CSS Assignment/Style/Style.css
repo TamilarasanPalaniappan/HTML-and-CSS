@@ -1,0 +1,122 @@
+#first{
+    float: left;
+    
+}
+ul li:link{
+ color:black
+}
+.second{
+    padding-top: 80px;
+    background-image: url();
+}
+#first a{
+    text-decoration: none;
+}
+form input{
+    padding: 10px;
+    border: none;
+    
+}
+form textarea{
+    border:none;
+}
+div.second #second{
+    float: right;
+    width: 50%;
+    border-color: thistle;
+}
+div ul li{
+    display:block;
+     float: left;
+     padding-left: 40px;
+     padding-bottom: 20px;  
+}
+.first{
+    position: fixed; 
+    color: black;
+    background-color: white;
+   
+}
+div ul{
+    padding-left: 100px;
+    padding-bottom: 40px;
+    float: right;
+}
+div ul li:hover{
+    color: orangered;
+}
+div ul li:visited{
+color: black;
+}
+div ul li:link{
+    color: black;
+    }
+#imageicon{
+    padding-top: 30px;
+  padding: 20px;
+}
+ div div.third{
+    float: left;
+}
+.loc{
+    width: 30%;
+    display: inline-block;
+    height: 30%;
+    padding: auto;
+}
+.loc img{
+    width: 75%;
+    height: 75%;
+}
+#img{
+    width: 50%;
+    height: 50%;
+}
+body{    
+ font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-image: url(../Images/boldbi_chat_Icon.svg);
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position-x: right;
+   background-position-y: bottom;
+     
+}
+ div.second #second a #submit{
+    width: 90%;
+    height: 110%;
+    padding:10px 5px;
+    border: none;
+    background-color:orangered;
+    color: white;
+}
+#second a #submit:hover{
+    color: orangered;
+    background-color: white;
+}
+#second{
+    float:right;
+        padding: 20px;
+    box-shadow: grey;
+}
+#submit:hover{
+    background-color: white;
+    color: orangered;
+}
+#first img{
+    width: 50px;
+    height: 50px;
+}
+#office{
+    font-size: 300%;
+}
+#Follow{
+    font-size: 250%;
+}
+#follow{
+    padding-left: 20px;
+}
+.last{
+    padding-top: 100px;
+}
